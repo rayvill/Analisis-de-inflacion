@@ -27,4 +27,4 @@ Gráfico de la inflación anual desde el año 1996 hasta 2021.
 Detección de los años con mayor y menor inflación.
 
 
-![Gráfico de inflación](Evolucion del IPC.png)
+![Evolucion del IPC.png](Evolucion del IPC.png)
